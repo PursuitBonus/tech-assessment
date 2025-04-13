@@ -1,0 +1,64 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+
+# Environment
+.env
+*.env
+*.env.*
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+
+# Android
+.android/
+.gradle/
+*.iml
+.gradle
+/local.properties
+**/build/
+**/captures/
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+macos/build/
+
+# Web
+web/compiled.dart.js
+web/main.dart.js
+web/index.html
+
+# Windows
+windows/build/
+
+# Linux
+linux/build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Others
+pubspec.lock
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.lock
+
+# Firebase
+firebase_options.dart

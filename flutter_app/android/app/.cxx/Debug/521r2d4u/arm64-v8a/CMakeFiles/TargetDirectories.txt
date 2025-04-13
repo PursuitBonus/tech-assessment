@@ -1,0 +1,2 @@
+/Users/inbush/Develop/tech-assessment/flutter_app/android/app/.cxx/Debug/521r2d4u/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/inbush/Develop/tech-assessment/flutter_app/android/app/.cxx/Debug/521r2d4u/arm64-v8a/CMakeFiles/rebuild_cache.dir
