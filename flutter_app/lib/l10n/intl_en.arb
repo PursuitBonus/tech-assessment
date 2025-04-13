@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "homeTitle": "Home",
+  "chatTitle": "Chat",
+  "walletTitle": "Wallet",
+  "accountTitle": "Account",
+  "sellButton": "Sell"
+}

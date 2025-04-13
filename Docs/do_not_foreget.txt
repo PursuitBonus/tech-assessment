@@ -1,0 +1,14 @@
+1. UI move the sell btm to the screen with listings
+buy process will accure after selecting item to buy
+
+2. Withdrawal card managing etc are hardcoded so the of course should be added to the cubit structures 
+
+3. Login screen now done as the part of the account screen - but it might be separated in the independent screen and word as a dialog in pair with register (if required)
+Now that I hope makes no sense in the way it operates
+The issue with the login dialogs within the apps with segmented functionality (partly accessible for un-logined users) is the proper navigation
+Using the Dialog (better UI view  from my POW) means the cancel login problem - when user decides not to login after the dialog was shown - so to cancel that and handle the "appropriate" nav sequence we have to manage it for example via separately created navigation cubit - managing states programmatically, what is the quite long way for the test task.
+
+So we keep that in head and continue using the inline widget approach on current UX.
+
+
+
